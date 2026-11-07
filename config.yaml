@@ -1,0 +1,5 @@
+train: C:/Users/HP/microplastic_ai_dataset/images/train
+val: C:/Users/HP/microplastic_ai_dataset/images/val
+
+nc: 1
+names: ["microplastic"]
